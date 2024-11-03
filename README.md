@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-As a software developer with nearly 3 years of hands-on experience, I’ve had the privilege of working on a diverse range of projects that span both backend and frontend development. My expertise includes a variety of programming languages and tools, allowing me to tackle complex technical challenges with agility and precision.
+Ahmed is a Software Developer with about 3 years of experience in creating scalable and efficient software solutions. He is skilled in JavaScript, including TypeScript, and works with frameworks like React, Node.js, C#, and Rust. 
 
-Working at a leading consulting software company has given me the opportunity to collaborate with medium and large organizations, adapting quickly to different technologies and delivering high-quality solutions that I’m proud of. My experience has equipped me with the ability to balance client needs with innovative development approaches, ensuring each project meets its goals.
+Ahmed has experience with relational and NoSQL databases such as PostgreSQL and MongoDB, and he is familiar with using Docker and Kubernetes, for managing software containers. He is adept at implementing and managing CI/CD pipelines to streamline development and deployment processes. 
 
-What drives me is a passion for continuous learning and problem-solving. I’m always eager to expand my skill set and take on new challenges, whether it’s mastering emerging technologies or finding creative solutions to development roadblocks.
-
-If you’d like to learn more about my work or explore potential opportunities, feel free to contact me for my resume or to schedule a meeting.
+Ahmed is passionate about writing clear and well-organized code and is committed to delivering high-quality software that meets user needs and supports business goals.
